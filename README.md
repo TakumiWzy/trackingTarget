@@ -1,4 +1,4 @@
-# 🚩trackingTarget🚩
+# ✈trackingTarget✈
 ##  c++测试fDsst和Opencv中跟踪算法API效果
 #### 软件与库环境：opencv3.4+opencv_contrib3.4
 #### 程序效果：鼠标框选初始跟踪框，运行后显示跟踪效果以及跟踪框中心坐标轨迹。
@@ -7,10 +7,14 @@
 <table>
 <td><center><img src=https://github.com/TakumiWzy/trackingTarget/blob/master/img/pic1.PNG width="200px" height="200px" />
 	
-	Figure 1. 鼠标框选初始跟踪框</center></td>
+	Figure 1. 鼠标框选初始跟踪框
+</center>
+</td>
 <td><center><img src=https://github.com/TakumiWzy/trackingTarget/blob/master/img/pic2.PNG width="200px" height="200px" />
 	
-	Figure 2. 跟踪轨迹效果图</center></td>
+	Figure 2. 跟踪轨迹效果图	
+</center>
+</td>
 </table>
 
 #### 🎯跟踪算法使用方法：
