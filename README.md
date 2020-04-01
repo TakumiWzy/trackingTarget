@@ -1,7 +1,7 @@
 # 🚩trackingTarget🚩
-##  ✨c++测试fDsst和Opencv中跟踪算法API效果
-#### 💫软件与库环境：opencv3.4+opencv_contrib3.4
-#### 💫程序效果：鼠标框选初始跟踪框，运行后显示跟踪效果以及跟踪框中心坐标轨迹。
+##  c++测试fDsst和Opencv中跟踪算法API效果
+#### 软件与库环境：opencv3.4+opencv_contrib3.4
+#### 程序效果：鼠标框选初始跟踪框，运行后显示跟踪效果以及跟踪框中心坐标轨迹。
 #### 🎯如下图： 
 
 <table>
@@ -13,7 +13,8 @@
 	Figure 2. 跟踪轨迹效果图</center></td>
 </table>
 
-#### 💎💎💎跟踪算法使用方法,程序下载之后主函数：`trackingTarget.cpp`。自行修改视频路径：filename.若为图片序列：将视频路径上面路径解除注释。
+#### 🎯跟踪算法使用方法：
+程序下载之后主函数：`trackingTarget.cpp`。自行修改视频路径：filename.若为图片序列：将视频路径上面路径解除注释。
 
 #### 🎯步骤总结为：
 ##### step1.修改输入路径
