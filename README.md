@@ -27,9 +27,9 @@
 ###### ①将跟踪API模板函数取消注释即可。
 ###### ②例如：Ptr<TrackerKCF> tracker=TrackerKCF::create(),再将fdsst的算法注释。			
 			/*opencv自带算法*/
-			//tracker->init(frame, bbox);
+			tracker->init(frame, bbox);
 			/*改进算法*/
 			//FDSST
-			tracker.init(bbox, dst); 
+			//tracker.init(bbox, dst); 
 
 ##### Step4.运行并查看目标跟踪和跟踪轨迹效果。
