@@ -3,9 +3,8 @@
 #### 软件与库环境：opencv3.4+opencv_contrib3.4
 #### 程序效果：鼠标框选初始跟踪框，运行后显示跟踪效果以及跟踪框中心坐标轨迹。
 #### 如下图：
-#### ![pic1](https://github.com/TakumiWzy/trackingTarget/blob/master/img/pic1.PNG){:width="100px" height="100px"} 
-#### ![pic2](https://github.com/TakumiWzy/trackingTarget/blob/master/img/pic2.PNG){:width="100px" height="100px"}
-
+#### ![pic1](https://github.com/TakumiWzy/trackingTarget/blob/master/img/pic1.PNG width="100px" height="100px")
+#### ![pic2](https://github.com/TakumiWzy/trackingTarget/blob/master/img/pic2.PNG width="100px" height="100px")
 #### 跟踪算法使用方法,程序下载之后主函数：
 #### trackingTarget.cpp,自行修改视频路径：filename.若为图片序列：将视频路径上面路径解除注释。
 #### 步骤总结为：
